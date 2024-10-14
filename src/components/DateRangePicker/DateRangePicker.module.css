@@ -1,0 +1,14 @@
+/* src/components/DateRangePicker/DateRangePicker.module.css */
+.dateRangePicker {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .datePicker {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    margin: 0 5px;
+  }
